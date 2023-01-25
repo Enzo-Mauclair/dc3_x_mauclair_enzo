@@ -6,3 +6,5 @@ function signe(n) {
     }
     
 }
+
+signe(0)
